@@ -5,7 +5,16 @@ package com.example.ivan.webapiservice;
  */
 public class Student {
     public int Id;
-    public String Name;
-    public int Age;
-    public String Email;
+    public String firstName;
+    public String idNum;
+    public String macAddress;
+    public String lastName;
+    public String schoolYear;
+    public String term;
+    public String roomRequest;
+    public String dlsuEmail;
+    public String assignRoom;
+    public String status;
+    public String contactNum;
+
 }
